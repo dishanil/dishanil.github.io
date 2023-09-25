@@ -1,0 +1,6 @@
+Dishani Lahiri is a Master of Science in Computer Vision student at Carnegie Mellon, graduating in Dec, 2023. Her current advisor is Professor Kris Kitani. They are building a low-power Visual-Inertial odometer solutions hat can be used in unseen environments and mainly be used in AR glasses. Her work has been accepted and presented at the ICCV 2023 AI for 3D Content Creation Workshop and IEEE's CICT, 2017. 
+
+Dishani did her summer 2023 internship with Slingshot AI as an ML Research Engineer where she worked with text-to-image Diffusion models, CycleGAN-based Generative Face Aging, and with fine-tuning LLaMA2-7B for personalized text style transfer. 
+
+
+Previously, she worked as a Senior CV Engineer at Samsung R&D Institute, Bangalore for 3 years. She was instrumental in building the AI pipeline for Night Mode deployed in the Flagship S series. 
